@@ -1,0 +1,11 @@
+# == Core ==
+
+node_modules/
+build/
+
+*.log
+
+# == VSCode ==
+
+# Main
+.vscode/*
